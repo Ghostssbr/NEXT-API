@@ -1,5 +1,3 @@
-flask
-beautifulsoup4
-requests
-concurrent
-tqdm
+gunicorn
+fastapi
+pydantic
